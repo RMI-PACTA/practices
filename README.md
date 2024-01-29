@@ -17,3 +17,4 @@ PR comment, how or why some of these guidelines could not be met.
 
 * [Google Doc](https://bit.ly/2dii-practices)
 * [Git](git.md)
+* [Repository Maintainer Guidelines](maintainer.md)
