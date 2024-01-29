@@ -15,5 +15,4 @@ We realize there may be times when you can not achieve all of these practices.
 In those cases, it's nice to let others know, e.g. in a commit description or a
 PR comment, how or why some of these guidelines could not be met.
 
-* [Google Doc](https://bit.ly/2dii-practices)
 * [Git](git.md)
