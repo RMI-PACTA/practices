@@ -1,14 +1,14 @@
-# What Does It Mean to Maintain a Repository?
+# What Does It Mean to be the Maintainer of a Repository?
 
-A solid ecosystem of maintainers can help lead to a well-functioning software environment. Maintainers are responsible for the health of a repository, which includes its functionality, documentation, and communication. Maintainers are also responsible for the health of the community around the repository, which includes the responsiveness of the maintainers, the clarity of the repository’s purpose, and the accessibility of the repository to new users.
+A network of active maintainers can help lead to a well-functioning software ecosystem. Maintainers are responsible for the health of a repository, which includes its functionality, documentation, and communication. Maintainers are also responsible for the health of the community around the repository, which includes the responsiveness of the maintainers, the clarity of the repository’s purpose, and the accessibility of the repository to new users.
 
-Below is the the RMI-PACTA tech team's guidance for what it means to be a maintainer of a repository. The guidance is not necessarily exhaustive, but should give an idea of what the expectations are of a maintainer.
+Below is the the RMI-PACTA Tech Team's guidance for what it means to be the maintainer of a repository. The guidance is not necessarily exhaustive, but should give an idea of what the expectations are of a maintainer.
 
 ## Communication
 Maintainers are responsible for clear communication regarding the state of the repository and its intended use, including any expected changes in usage. This includes clear documentation of its interface (see Documentation, below).
 
 ## Updates and Fixes
-They must update and fix the repository in a timely manner, which involves bug fixes, reviewing issues, and updating workflows/actions.
+They must update the repository in a timely manner, which involves bug fixes, reviewing issues, and updating GitHub actions.
 
 ## Documentation
 They must provide good documentation to explain the expected functionality and outputs of the repository.
