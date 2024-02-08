@@ -8,7 +8,7 @@ Below are some of our heuristics for what it means to be a maintainer of a repos
 Maintainers are responsible for clear communication regarding the state of the repository and its intended use, including any expected changes in usage. When possible, this may include clear documentation of its API.
 
 ## Updates and Fixes
-They must update and fix the repository in a timely manner, which involves bug fixes, reviewing issues, and updating workflows/ actions.
+They must update and fix the repository in a timely manner, which involves bug fixes, reviewing issues, and updating workflows/actions.
 
 ## Documentation
 They must provide good documentation to explain the expected functionality and outputs of the repository.
