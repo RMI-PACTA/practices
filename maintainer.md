@@ -22,9 +22,6 @@ Maintainers should be particularly cautious about changes to repositories that a
 ## Communication of Changes
 Any substantial change that may affect other parts of the workflow should be communicated, preferably in a tech review call or similar forum, to discuss the potential impacts and necessary adjustments.
 
-## Collaborative Responsibility
-Ideally, there will only be one maintainer per repository. In some cases, that maintainer may decide that certain files (for example, the `Dockerfile`) are best maintained by someone else. In that case, a file-specific maintainer may be specified. The lead maintainer should be responsible for ensuring that the co-maintainer is aware of the changes and is able to make them. If more than a handful of files are managed by a co-maintainer, it is a good indication that the repository should be refactored and split into multiple repositories.
-
 ## Practical Implications
 Maintainers of a repository will be defined using the `.github/CODEOWNERS` file of that repository. File-specific maintainers can also be defined in this manner. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more info. 
 
