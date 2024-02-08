@@ -5,7 +5,7 @@ A solid ecosystem of maintainers can help lead to a well-functioning software en
 Below are some of our heuristics for what it means to be a maintainer of a repository. These are not necessarily exhaustive, but should give an idea of the expectations of a maintainer.
 
 ## Communication
-Maintainers are responsible for clear communication regarding the state of the repository and its intended use, including any expected changes in usage. When possible, this may include clear documentation of its API.
+Maintainers are responsible for clear communication regarding the state of the repository and its intended use, including any expected changes in usage. This includes clear documentation of its interface (see Documentation, below).
 
 ## Updates and Fixes
 They must update and fix the repository in a timely manner, which involves bug fixes, reviewing issues, and updating workflows/actions.
