@@ -16,3 +16,4 @@ In those cases, it's nice to let others know, e.g. in a commit description or a
 PR comment, how or why some of these guidelines could not be met.
 
 * [Git](git.md)
+* [Repository Maintainer Guidelines](maintainer.md)
