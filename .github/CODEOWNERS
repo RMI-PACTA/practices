@@ -5,5 +5,5 @@
 *       @jdhoffa
 # The RMI-PATA developer team should be code-owners of all 
 # `*.md` files except for `README.md`.
-*.md @RMI-PACTA/developers
+*.md @AlexAxthelm @cjyetman @jacobvjk @jdhoffa @MonikaFu
 README.md @jdhoffa
