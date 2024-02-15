@@ -17,3 +17,7 @@ PR comment, how or why some of these guidelines could not be met.
 
 * [Git](git.md)
 * [Repository Maintainer Guidelines](maintainer.md)
+
+We also keep public documentation of interesting resources (best practices and otherwise) here:
+
+* [Resources](https://rmi-pacta.github.io/resources/)
