@@ -6,3 +6,7 @@ We have agreed to these practices by consensus. They document heuristics, as det
 
 * [Git](git.md)
 * [Repository Maintainer Guidelines](maintainer.md)
+
+We also keep public documentation of interesting resources (best practices and otherwise) here:
+
+* [Resources](https://rmi-pacta.github.io/resources/)
