@@ -3,3 +3,6 @@
 # @jdhoffa will be requested for review when someone opens 
 # a pull request.
 *       @jdhoffa
+# The entire tech team should be code-owners of all `*.md` 
+# files except for the README.md
+*.md !README.md @RMI-PACTA/developers
