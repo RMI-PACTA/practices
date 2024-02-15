@@ -1,4 +1,4 @@
-# Git
+THIS IS JUST A TEST
 
 These are practices that apply to shared commits[1] (maybe after cleaning commits locally).
 
