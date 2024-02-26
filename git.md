@@ -7,7 +7,7 @@ These are practices that apply to shared commits[1] (maybe after cleaning commit
 -   Shared commits should not be changed.
 -   Changes in each shared commit should be closely related.
 
-## 1. Don’t push your work until you’re happy with it
+## Don’t push your work until you’re happy with it
 
 “One of the cardinal rules of Git is that, since so much work is local within your clone, you have a great deal of freedom to rewrite your history locally. However, once you push your work, it is a different story entirely, and you should consider pushed work as final unless you have good reason to change it. In short, you should avoid pushing your work until you’re happy with it and ready to share it with the rest of the world.”
 
@@ -22,7 +22,7 @@ See also:
 -   [Cleaning shared history with `git revert`](https://youtu.be/A8Ld6iDqc3w).
 -   [Git playlist](https://www.youtube.com/playlist?list=PLvgdJdJDL-AOHkwiaMvYhPKVjiD9vzZIo).
 
-## 2. Keep commits focused
+## Keep commits focused
 
 A commit should focus on related changes only. For example, fixing two different bugs should produce two separate commits. Small commits make it easier for other developers to understand the changes and roll them back if something went wrong. You can avoid sharing unwanted changes via [.gitignore](https://git-scm.com/docs/gitignore). If you can’t succinctly describe what the commit is doing in a few words, then it is likely too big. Small commits are easier to review, and easier to merge because they offer fewer opportunities for conflicts.
 
@@ -33,15 +33,15 @@ See also:
 -   [.gitignore templates](https://github.com/github/gitignore).
 -   Undoing things with Git ([video](https://youtu.be/dZOfEF19yDk), [lesson](https://coderefinery.github.io/git-intro/05-undoing)).
 
-## 3. The work you share should be complete
+## The work you share should be complete
 
 Each commit and feature should do what it promises, completely; and reverting it should undo what that commit or feature was meant to do, also completely. Before you commit changes, consider if other changes you’ve made are part of the same conceptual change and combine them into one commit rather than committing them separately.
 
-## 4. Explain how to test the effect of the changes you made
+## Explain how to test the effect of the changes you made
 
 Testing your code is important, particularly when sharing it with others. Automated tests are the best but not the only way to test the effects of the changes you made. When automated tests are excluded, the  PR’s first comment should explain how you ensured that the code behaves as you expect, and how someone else may reproduce your results.
 
-## 5. Structure each commit message like an email
+## Structure each commit message like an email
 
 Like an email, commit messages have a subject and an optional body. The subject should start with a line summarizing your changes (aim for 50 characters or less). Use the imperative, present tense – for example, “Fix typo”, not “Fixed typo” or “Fixes typo”. The message body, if present, should follow a blank line; wrap around 70 characters; and explain the motivation for the change (“why”, not “what” or “how”).
 
@@ -50,7 +50,7 @@ See also:
 -   [Example of a commit message](https://github.com/RMI-PACTA/resources/issues/74)
 -   [Commit best practices](https://r-pkgs.org/git.html#commit-best-practices)
 
-## 6. Agree on a workflow
+## Agree on a workflow
 
 Choose a workflow based on your team’s needs and preferences. However you choose to work, just make sure to agree on a common workflow that everyone follows:
 
@@ -73,7 +73,7 @@ See also:
 
 -   [Comparing workflows](https://www.atlassian.com/git/tutorials/comparing-workflows).
 
-## 7. Use tools to be more productive
+## Use tools to be more productive
 
 Rather than relying on memory or will power, rely on good systems. Good systems such as git [aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases), [hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks), and [graphical user interfaces](https://happygitwithr.com/git-client.html) can help you work more productively, correctly, and comfortably.
 
