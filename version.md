@@ -12,7 +12,7 @@ Semantic versioning (SemVer) is a versioning scheme that provides a simple set o
 
 ## Calender Versioning
 
-Calender versioning (CalVer) is a versioning scheme that uses some portion of the date of release as the version number. There are different styles of CalVer. One is very similar to SemVer, however the `MAJOR` version is instead replaced with the year of release, e.g. `YYYY.MINOR.PATH`. Other variants can be found here: [CalVer](https://calver.org/).
+Calender versioning (CalVer) is a versioning scheme that uses some portion of the date of release as the version number. There are different styles of CalVer. One is very similar to SemVer, however the `MAJOR` version is instead replaced with the year of release, e.g. `YYYY.MINOR.PATCH`. Other variants can be found here: [CalVer](https://calver.org/).
 
 ## R Packages
 
