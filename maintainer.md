@@ -24,6 +24,10 @@ Maintainers are the decision-makers for structural changes or contentious featur
 
 Maintainers should be particularly cautious about changes to repositories that are dependencies of larger workflows to avoid breaking changes.
 
+## Versioning and Release
+
+Maintainers are responsible for communicating overall application version through some informative version identifier. See [Software Versioning](version.md) for more information.
+
 ## Communication of Changes
 
 Any substantial change that may affect other parts of the workflow should be communicated, preferably in a tech review call or similar forum, to discuss the potential impacts and necessary adjustments.
