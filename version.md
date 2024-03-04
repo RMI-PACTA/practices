@@ -1,6 +1,6 @@
 # Software Versioning
 
-Versioning is a critical aspect of software development. It is the process of assigning identifiers to a package to distinguish it from other versions of the same package. In contrast to a "git hash", which serves as an immutable machine-friendly identifier of the state of the software, the version number serves more to communicate the function of the package to (human) users. This document outlines our practices for versioning a package.
+Versioning is a critical aspect of software development. It is the process of assigning identifiers to a collection of code to distinguish it from other versions of the same collection. In contrast to a "git hash", which serves as an immutable machine-friendly identifier of the state of the code, the version number serves to communicate the behavior of the code to humans (and especially anticipated differences from earlier versions). This document outlines our practices for versioning code.
 
 ## Semantic Versioning
 
