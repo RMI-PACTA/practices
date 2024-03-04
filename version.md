@@ -9,6 +9,7 @@ Semantic versioning (SemVer) is a versioning scheme that provides a simple set o
 - `MINOR` version when you add functionality in a backwards-compatible manner, and
 - `PATCH` version when you make backwards-compatible bug fixes, or maintenance/ upkeep and other developer-facing improvements.
 
+When a package is in a development stage (e.g. not yet ready for release), it is identified by "adding a large component" to the version number, e.g. `0.1.0.9000`. This is a signal to users that the package is in between stable releases.
 
 ## Calender Versioning
 
