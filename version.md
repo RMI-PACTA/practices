@@ -4,7 +4,7 @@ Versioning is a critical aspect of software development. It is the process of as
 
 ## Semantic Versioning
 
-Semantic versioning (SemVer) is a versioning scheme that provides a simple set of rules and requirements that dictate how version numbers are assigned and incremented. The version number is a three-part number in the format of `MAJOR.MINOR.PATCH`.
+Semantic versioning ([SemVer](https://semver.org/)) is a versioning scheme that provides a simple set of rules and requirements that dictate how version numbers are assigned and incremented. The version number is a three-part number in the format of `MAJOR.MINOR.PATCH`.
 - `MAJOR` version when you make incompatible API changes,
 - `MINOR` version when you add functionality in a backwards-compatible manner, and
 - `PATCH` version when you make backwards-compatible bug fixes, or maintenance/ upkeep and other developer-facing improvements.
