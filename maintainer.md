@@ -32,10 +32,10 @@ Maintainers are responsible for communicating overall application version throug
 
 Any substantial change that may affect other parts of the workflow should be communicated, preferably in a tech review call or similar forum, to discuss the potential impacts and necessary adjustments.
 
-## Practical Implications
-
-Maintainers of a repository will be defined using the `.github/CODEOWNERS` file of that repository. File-specific maintainers can also be defined in this manner. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more info. 
-
 ## References
 
 We considered aspects of the [ROpenSci Maintainer Definition](https://ropensci.org/blog/2023/02/07/what-does-it-mean-to-maintain-a-package/) when creating this document. 
+
+## How
+
+- The maintainer of a repository can be optionally communicated to the public by using GitHub's [`CODEOWNERS` feature](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
